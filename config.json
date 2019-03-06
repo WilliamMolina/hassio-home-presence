@@ -1,0 +1,13 @@
+{
+    "name": "Home Presence",
+    "version": "0.0.0",
+    "slug": "home_presence",
+    "description": "Happy bubbles presence",
+    "startup": "before",
+    "boot": "auto",
+    "options": {},
+    "schema": {},
+    "ports": {
+      "5555/tcp": 5555
+    }
+  }
