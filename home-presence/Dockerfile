@@ -1,4 +1,5 @@
-FROM arm32v6/alpine:3.7
+ARG BUILD_FROM
+FROM $BUILD_FROM
 
 MAINTAINER William Molina <wmolina98@gmail.com>
 
