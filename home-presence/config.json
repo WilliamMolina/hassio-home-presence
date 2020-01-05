@@ -3,6 +3,7 @@
     "version": "0.0.0",
     "slug": "home_presence",
     "description": "Happy bubbles presence",
+    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "startup": "before",
     "boot": "auto",
     "options": {},
